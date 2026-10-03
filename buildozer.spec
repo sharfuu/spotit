@@ -5,7 +5,7 @@ package.name = spotit
 package.domain = org.spotit
 
 source.dir = .
-source.include_exts = py,png,jpg,jpeg,kv,atlas,ttf,otf
+source.include_exts = py,png,jpg,jpeg,kv,atlas
 
 version = 1.0
 
